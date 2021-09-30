@@ -1,0 +1,37 @@
+h1{color: rgb(95, 71, 40);
+        
+}
+
+.header{
+background-color: burlywood;
+display:flex;
+justify-content:space-evenly;
+
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: center;
+}
+p,h2{
+    text-align: center;
+}
+p,h4{
+text-align: center;
+}
+.footer1{
+    display: flex;
+    justify-content:space-evenly;
+}
+.item{
+background-color: paleturquoise;
+border: solid;
+}
+.menu{
+display: flex;
+justify-content: space-evenly;
+}
